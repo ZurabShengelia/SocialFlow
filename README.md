@@ -1,6 +1,6 @@
 # 🚀 Social Media Platform
 
-> A full-stack, modern social media platform with real-time messaging, stories, games, and interactive features. Built with React, Node.js, MongoDB, and Socket.io.
+>A full-stack, modern social media platform with real-time messaging, stories, games, and interactive features. Built with React, Node.js, Express, MongoDB, Socket.io and Tailwind CSS
 
 <div align="center">
 
