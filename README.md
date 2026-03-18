@@ -465,10 +465,10 @@ npm install
 
 # Create .env file with your configuration
 # Example:
-# MONGODB_URI=mongodb://localhost:27017/social-media
+# MONGODB_URI=mongodb://localhost:
 # JWT_SECRET=your-secret-key
 # NODE_ENV=development
-# CORS_ORIGIN=http://localhost:5173
+# CORS_ORIGIN=http://localhost:
 ```
 
 3. **Setup Frontend**
