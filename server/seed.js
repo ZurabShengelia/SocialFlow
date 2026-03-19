@@ -4,7 +4,7 @@ async function seedDatabase() {
   try {
     console.log('Starting database seed...');
 
-    await mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:27017/social-media');
+    await mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost:');
     console.log('✅ Connected to MongoDB');
 
     const User = require('./src/models/User').default;
